@@ -1,6 +1,6 @@
 ---
-title: "G0O02a: Statistical Data Analysis: Project 1 - 2025/2026 Spring"
-author: "Gabriela Rybacka"
+title: "Project 1 Statistical Data Analysis "
+author: "name_surname"
 output:
   html_document: default
 ---
